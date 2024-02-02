@@ -1,222 +1,279 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Angel Ortíz Sarmiento",
+    "label": "Full Stack Developer .net con más de 6 años de experiencia",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "example@example.com",
+    "phone": "+54 0000000000",
+    "url": "https://litoos11.dev",
+    "summary": "+6 años de experiencia como Desarrollador C# .net. Vivo en Veracruz, México. He trabajado en diferentes empresas enfocado principalmente en desarrollos de sistemas administrativos y erp, generando y modificando módulos como facturación, contabilidad, clientes, proveedores, entre otros.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "91808",
+      "city": "Veracruz",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "angel-ortiz-sarmiento",
+        "url": "https://www.linkedin.com/in/angel-ortíz-sarmiento/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "litoos11",
+        "url": "https://github.com/litoos11"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "MOZ Agencias Aduanales Servicios S.C.",
+      "position": "Analista Desarrollador de Software",
+      "url": "https://www.moz.com.mx/",
+      "startDate": "2022-01-17",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Participé en la migración de la facturación electrónica de la versión 3.3 a la versión 4.0 de acuerdo a los lineamientos proporcionados por el SAT. Desarrollé el módulo de contabilidad electrónica. Realicé los procesos de generación de respaldo full e incremental sobre las distintas bases de datos existentes. Realicé la implementación de git como controlador de versiones de código fuente de los distintos sistemas a traves de la plataforma azure. Participé en la migración del sistema erp principal de la empresa construido en Web Forms y migrado a tecnologías más recientes como VueJs, dotnet core rest api y sql server 2018. ",
+      "highlights": ["Started the company"]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Redes y Consultoría al Comercio Exterior",
+      "position": "Analista Programador",
+      "url": "https://reco.com.mx/",
+      "startDate": "2019-10-01",
+      "endDate": "2022-01-14",
+      "summary": "Participé en el desarrollo y actualización de distintos módulos administrativos del sistema erp propio de la empresa. Optimicé consultas en base de datos sql server 2008. Participé en la migración del controlador de versiones de código fuente de SVN a Git a través de la plataforma azure. ",
+      "highlights": ["Started the company"]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Foto Contino",
+      "position": "Analista Programador",
+      "url": "https://contino.com.mx/",
+      "startDate": "2017-10-01",
+      "endDate": "2019-09-01",
+      "summary": "Realicé el desarrollo para el proceso de migración de la facturación electrónica de la versión 3.2 a la versión 3.3 en base a las especificaciones proporcionadas por el SAT. Actualicé el proceso de cobro a través de pasarelas de pago bancarias. Actualicé reportes contables realizados a través de objetos creados en plsql oracle 11g. Desarrollé el sistema de administración de inventario de la tienda virtual con tecnologías .net conectado a mysql y oracle como base de datos. Actualicé aplicación android de tipo check list realizada en java y el ide android studio. Actualice scrtips escritos en Perl para extraer información de bases de datos DB2.  Desarrolle web service en java 7 para consumir servicios proporcionados por terceros.",
+      "highlights": ["Started the company"]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnológico Superior de Tierra Blanca",
+      "url": "https://itstb.edu.mx/",
+      "area": "Ingeniero en Sistemas Computacionales",
+      "studyType": "Bachelor",
+      "startDate": "2011-08-01",
+      "endDate": "2016-02-01",
+      "score": "89.81",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
+    {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "Servidor"]
+    },
+    {
+      "name": "Dotnet +6",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "Servidor"]
+    },
+    {
+      "name": "MVC",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "Servidor"]
+    },
+    {
+      "name": "Web Forms",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "Servidor"]
+    },
+    {
+      "name": "Windows Forms",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "Servidor"]
+    },
+    {
+      "name": "Ado.net",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "Servidor"]
+    },
+    {
+      "name": "Dapper",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "Servidor"]
+    },
+    {
+      "name": "SqlServer",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Transact-SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Oracle",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "PL/SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Jquery",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Fullstack"]
+    },
+    {
+      "name": "Vue3",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Fullstack"]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend"]
     },
     {
-      "name": "GitHub",
+      "name": "Git Flow",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "Servidor"]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "name": "Scrum",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend"]
     },
     {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "name": "Crystal Reports",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend"]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Básico"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
       "name": "mars.codes",
       "isActive": true,
       "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
+      "highlights": ["Elige tu propia aventura", "En desarrollo"],
       "url": "https://mars.codes"
     },
     {
@@ -228,26 +285,20 @@
         "Multidioma",
         "JavaScript & TypeScript"
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://adventjs.dev"
     },
     {
       "name": "Codember",
       "isActive": true,
       "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
+      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
       "url": "https://codember.dev"
     },
     {
       "name": "codi.link",
       "isActive": true,
       "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
+      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
       "url": "https://codi.link",
       "github": "https://github.com/midudev/codi.link"
     },
@@ -255,20 +306,14 @@
       "name": "Pruebas Técnicas",
       "isActive": true,
       "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
+      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
       "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "github": "https://github.com/midudev/codi.link"
     },
     {
       "name": "miduConf",
       "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
+      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
       "url": "https://miduconf.com"
     }
   ]
