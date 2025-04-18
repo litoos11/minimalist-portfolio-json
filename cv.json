@@ -288,7 +288,8 @@
       "isActive": true,
       "description": "Descripción del tema del proyecto",
       "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https://ejemploproyecto.com"
+      "url": "https://ejemploproyecto.com",
+      "github": "https://litooos11.dev"
     }
   ]
 }
